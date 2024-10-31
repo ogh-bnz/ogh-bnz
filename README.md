@@ -1,4 +1,4 @@
-<h2 align="center">WELCOME</h2>
+<h2 align="center"></h2>
 
 ###
 
@@ -16,18 +16,16 @@
 <br clear="both">
 
 ###
-<h1 align="center">Hello, i'm Kazi Hashibur Rahman ( OGHBNZ )</h1>
+<h1 align="center">Kazi Hashibur Rahman</h1>
 <h3 align="center">A Cyber Security Researcher And Ethical Hacker From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogh-bnz&label=Profile%20views&color=0e75b6&style=flat" alt="ogh-bnz" /> </p>
 
-- 🔭 I’m currently learning **Bug Hunting**
+- 🔭 Currently learning **Bug Hunting**
 
 - 📝 I try to regularly write articles on [**https://medium.com/@rhashibur75**](https://medium.com/@rhashibur75)
 
 - 📫 How to reach me **rhashibur75@gmail.com** or via [**Telegram**](https://t.me/oghbnz)
-
-- ⚡ Fun fact **I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
