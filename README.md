@@ -17,7 +17,7 @@
 
 ###
 <h1 align="center">Kazi Hashibur Rahman</h1>
-<h3 align="center">A Cyber Security Researcher And Ethical Hacker From Bangladesh</h3>
+<h3 align="center">Penetration Tester | Bug Hunter | Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogh-bnz&label=Profile%20views&color=0e75b6&style=flat" alt="ogh-bnz" /> </p>
 
